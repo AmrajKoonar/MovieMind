@@ -25,7 +25,7 @@
 
 This project runs as a standalone Python script. Follow the steps below to run it locally:
 
-### 1. Clone the Repository
+### 1. Clone the Repository.
 ```bash
 git clone https://github.com/your-username/moviemind.git
 cd moviemind
