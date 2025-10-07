@@ -1,4 +1,4 @@
-# 🎬 MovieMind – Python Movie Recommendation Engine
+# 🎬 MovieMind – Movie Recommendation Engine
 
 **MovieMind** is a smart movie recommendation system built in Python by **Amraj Koonar**. It uses both content-based and collaborative filtering methods to generate personalized movie suggestions. The app includes a simple Tkinter GUI for inputting preferences and displaying results in a user-friendly way.
 
