@@ -42,7 +42,7 @@ source venv/bin/activate  # or use venv\Scripts\activate on Windows
 pip install -r requirements.txt
 ```
 
-### 4. Run the Application
+### 4. Run the Application:
 ```bash
 python main.py
 ```
