@@ -31,7 +31,7 @@ git clone https://github.com/your-username/moviemind.git
 cd moviemind
 ```
 
-### 2. (Optional) Create a Virtual Environment.
+### 2. (Optional) Create a Virtual Environment:
 ```bash
 python -m venv venv
 source venv/bin/activate  # or use venv\Scripts\activate on Windows
