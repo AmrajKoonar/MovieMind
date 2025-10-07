@@ -47,7 +47,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-The GUI will launch where you can begin searching for movie recommendations
+The GUI will launch where you can begin searching for movie recommendations.
 
 ---
 
